@@ -1,4 +1,4 @@
-FROM node:18.20.5-bookworm-slim
+FROM node:18.20.7-bookworm-slim
 
 COPY package-lock.json package.json  /app/
 
